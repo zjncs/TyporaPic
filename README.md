@@ -1,1 +1,2 @@
 # TyporaPic
+基于Github平台与PicGo工具，构建免费、稳定的图床，并实现在Typora内撰写Markdown文档时，粘贴图片就可以将这一图片自动上传到搭建好的图床
